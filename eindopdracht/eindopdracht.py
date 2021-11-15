@@ -1,4 +1,4 @@
-print ("Eindopdracht van Bila")
+print ("Eindopdracht van Bilal")
 
 n = input ("Wat is jouw naam?")
 print ("Goedemiddag" + n )
@@ -11,7 +11,7 @@ print ("Jouw naam is " + n + "En je bent " + age +"jaar oud")
 H = input ("Wat zijn jouw hobby's?")
 print ("ooh" + H + "Dat is ook mijn hobby")
 
-C = input ("wat is je lievelings eten?")
+C = input ("Wat is je lievelings eten?")
 print ("Echt?!" + C + "dat lust ik niet")
 
 print ("We zijn gekomen bij het einde van mijn eindopdracht wat vond je ervan?") 
